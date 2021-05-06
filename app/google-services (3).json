@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264574522439",
+    "project_id": "smsprovider-e8238",
+    "storage_bucket": "smsprovider-e8238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264574522439:android:825dfa32aa47c97aa20d62",
+        "android_client_info": {
+          "package_name": "com.example.smsreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264574522439-g4nt2e63bs6rj4rckqv8b4i6514t9jp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smsreceiver",
+            "certificate_hash": "5cd8cef5c2117f16a75a11bb0840fba0e0f11bf1"
+          }
+        },
+        {
+          "client_id": "264574522439-np0u944ckipmqqu4n8f32tavudqke73h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SWMgbbQRpCfRnLNgBJJ6_LmcMPRIEEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264574522439-np0u944ckipmqqu4n8f32tavudqke73h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
